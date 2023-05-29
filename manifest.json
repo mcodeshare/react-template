@@ -6,7 +6,7 @@
   "version": "0.1.0",
   "git": "git地址(非必填)",
   "remoteUrl":"发布模板地址",
-  "framework":"REACT",
+  "framework":"REACT18",
   "entry": [
     {
       "id": "uuid自动生成",
