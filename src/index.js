@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 // 引入sdk使用示例
-import './sdk/sdkUseExample'
+import './sdk'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
